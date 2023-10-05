@@ -1,2 +1,2 @@
 # TPgit051023
-Exercide CDA: Repository pour le TP git
+Exercice CDA: Repository pour le TP git
